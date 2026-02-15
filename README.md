@@ -46,4 +46,4 @@ AI-based event scheduling and resource optimization platform.
 ## 🌐 Connect With Me
 
 📧 Email: prasadanika25@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link here)
+🔗 LinkedIn:
