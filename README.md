@@ -49,6 +49,9 @@ AI-based event scheduling and resource optimization platform
 
 ![Anika's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasadanika25-tech&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadanika25-tech&theme=tokyonight)
+
+
 ---
 
 ## 🌐 Connect With Me
