@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey, Anika Prasad here!
 
-<!--
-**prasadanika25-tech/prasadanika25-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Aspiring Software Developer  
+Passionate about building real-world applications and improving problem-solving skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- Curious and consistent learner in Software Development  
+- Interested in Web Development and Automation Systems  
+- Enjoy turning ideas into working projects  
+- Continuously exploring new technologies  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+C | C++ | Java | Python  
+
+**Web Technologies:**  
+HTML | CSS | JavaScript  
+
+**Tools & Platforms:**  
+Power BI | Tableau | Git | GitHub | Jira | Miro  
+
+**Core Concepts:**  
+OOP | Data Structures | DBMS  
+
+---
+
+## 📌 Projects
+
+### 🔹 Smart Classroom Assigning & Management System  
+Web-based classroom scheduling system built using HTML, CSS, JavaScript and Java.
+
+### 🔹 Blood Bank Web Application  
+Centralized donor registration and blood stock tracking system.
+
+### 🔹 AI College Event Planner (Ongoing)  
+AI-based event scheduling and resource optimization platform.
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: prasadanika25@gmail.com  
+🔗 LinkedIn: (Add your LinkedIn link here)
